@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anish-band
 - 👀 I’m interested in computer science, specficially AI
-- 🌱 I’m currently going over the fundamental languages 
+- 🌱 I’m currently going over the fundamentals 
 - ⚡ Fun fact: ...
 
 <!---
