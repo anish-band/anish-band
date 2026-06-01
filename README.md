@@ -1,48 +1,51 @@
-# 👋 Hi, I'm Anish
+# Hi, I'm Anish 👋
 
-Computer Science student at Purdue University interested in building tools that help people think, learn, and work more effectively.
-
-Currently focused on software engineering, productivity systems, and data-driven applications.
+CS + Applied Statistics @ Purdue University. I like building tools that are useful (at least for me).
 
 ---
 
 ## 🚧 Currently Building
 
-### Neurix
-A productivity intelligence platform that tracks deep work, analyzes behavioral patterns, and provides insights to help knowledge workers optimize their focus and cognitive performance.
+### [Cellar](https://github.com/anish-band/cellar) — building
+An Obsidian vault intelligence system. Pipeline: markdown ingestion → sentence-transformers embeddings → HDBSCAN clustering → UMAP 2D visualization → link recommendations → FastAPI backend → Next.js dashboard. Built to actually understand how I think, not just search my notes.
 
-Core ideas:
-- deep work tracking
-- focus session analytics
-- productivity pattern detection
-- behavioral insights
+### [Neurix](https://github.com/anish-band/neurix) — on pause
+Full-stack focus-tracking and analytics web app. Logs deep work sessions, tracks focus ratings, and surfaces behavioral patterns via charts. Built with Next.js, TypeScript, Prisma, PostgreSQL (Neon), Clerk auth, Recharts, and Tailwind.
+
+### Gesture-to-MIDI (ML Research) — reading papers, building once the semester starts
+Undergraduate ML research with a faculty-led team — translating hand gestures into MIDI signals for live musical performance. No existing software does this well. Exploring transformer architectures and LoRA for the modeling side.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
-- JavaScript / TypeScript
+- TypeScript / JavaScript
 - Python
 - Java
+- C
+- C#
 
-**Frameworks / Tools**
-- React
-- Node.js
-- PostgreSQL
-- Git
+**Frameworks & Tools**
+- Next.js, React, Tailwind
+- FastAPI, Node.js, Express
+- PostgreSQL, MongoDB, Prisma
+- scikit-learn, PyTorch (learning)
+- Git, Vercel, Render
 
 ---
 
-## 📚 Current Interests
+## 📚 What I'm Into Right Now
 
 - Software Engineering
-- Machine Learning Applications
-- Productivity Systems
-- Building
+- ML Engineering
+- Applied AI
+- ML Research
+- Productivity systems and life optimization
+- Building things
 
 ---
 
 ## 🔗 Connect
 
-LinkedIn: www.linkedin.com/in/anish-bandapelli 
+LinkedIn: [linkedin.com/in/anish-bandapelli](https://www.linkedin.com/in/anish-bandapelli)
