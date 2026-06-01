@@ -1,6 +1,6 @@
 # Hi, I'm Anish 👋
 
-CS + Applied Statistics @ Purdue University. I like building tools that are useful (at least for me).
+CS + Applied Statistics @ Purdue University. I like building tools that are useful (at least to me).
 
 ---
 
