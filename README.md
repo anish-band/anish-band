@@ -48,4 +48,5 @@ Undergraduate ML research with a faculty-led team — translating hand gestures 
 
 ## 🔗 Connect
 
+Website: [anishband.dev](https://anishband.dev)
 LinkedIn: [linkedin.com/in/anish-bandapelli](https://www.linkedin.com/in/anish-bandapelli)
